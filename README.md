@@ -4,7 +4,7 @@ This program was made to detect Dirty Pipe exploitation attempts thanks to eBPF.
 
 ![](/.images/088d790795eb65a66c268d61039feeea5455bae6.gif)
 
-:flight_departure: If you want more details on how it works please read the [blog]() post ! :flight_arrival:
+:flight_departure: If you want more details on how it works please read the [blog](https://skyblue.team/posts/dirtypipe-ebpf-detection/) post ! :flight_arrival:
 
 ## How does it works?
 
